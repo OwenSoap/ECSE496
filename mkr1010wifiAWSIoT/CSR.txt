@@ -1,0 +1,21 @@
+ECCX08 Serial Number = 012370FA7078E410EE
+
+Hi there, in order to generate a new CSR for your board, we'll need the following information ...
+
+Country Name (2 letter code) []: 
+State or Province Name (full name) []: 
+Locality Name (eg, city) []: 
+Organization Name (eg, company) []: 
+Organizational Unit Name (eg, section) []: 
+Common Name (e.g. server FQDN or YOUR name) [012370FA7078E410EE]: MKRWiFi1010
+What slot would you like to use? (0 - 4) [0]: 0
+Would you like to generate a new private key? (Y/n) [Y]: y
+
+Here's your CSR, enjoy!
+
+-----BEGIN CERTIFICATE REQUEST-----
+MIHQMHgCAQAwFjEUMBIGA1UEAxMLTUtSV2lGaTEwMTAwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC
+AATlnNq9AboLNqbAXNSij1QsmCuYjg3vYALkD3i354KK1pfr/kYsgX8+kuqV5jfJLBiEMtWXSx54
+gljs8jbSBHmfoAAwCgYIKoZIzj0EAwIDSAAwRQIgRjRN7msQZzeu4t91ppaTPBFrl1gfx960w+p4
+s2OX00kCIQCqXj8uAthmpLiVSSmewOGuZqQVaL0JQvXaoiOz8RixMQ==
+-----END CERTIFICATE REQUEST-----
